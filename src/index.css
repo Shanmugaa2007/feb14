@@ -31,7 +31,7 @@
 }
 
 .heading{
-    color: #fa1474;
+    color: #8314fa;
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
     font-weight: bold;
@@ -46,7 +46,7 @@
 }
 
 .yesButton{
-    background-color: #d20051;
+    background-color: #7b00d2;
     color: white;
     border: none;
     padding: 15px 40px;
@@ -100,10 +100,6 @@
   width: 550px;
   height: 40vh;
   transition: 0.5s ease;
-}
-.para{
-    font-size: 1.5rem;
-    color: #881337;
 }
 
 @media (min-width: 320px) and (max-width: 500px) {
