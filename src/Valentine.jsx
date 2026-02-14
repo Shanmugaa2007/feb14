@@ -275,7 +275,6 @@ function App() {
             
             <span className="close-btn-white" onClick={() => setIsSurpriseOpen(false)}>&times;</span>
             <img src={surpriseImage} alt="Special Surprise" className="surprise-img" />
-            <h3>You are my Everything! 💖</h3>
             <h3>We are Married 🫂💗💍</h3>
           </div>
         </div>
